@@ -19,7 +19,3 @@ This project is a Web Visualization tool for sorting algorithms.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Authors
-
-- Mehul Agrawal [@maverick-shooter](https://github.com/maverick-shooter)
